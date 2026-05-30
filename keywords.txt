@@ -1,0 +1,86 @@
+tree down
+trees down
+power line
+power lines
+wires down
+road blocked
+roof damage
+hail
+tornado
+funnel
+waterspout
+flooded
+street flooding
+car stuck
+damage
+blew off
+transformer
+outage
+uprooted
+snapped
+limbs down
+branches down
+tree on house
+tree on car
+blocking road
+shingles
+siding
+soffit
+awning
+carport
+barn
+shed
+outbuilding
+roof torn
+structural damage
+pole snapped
+utility pole
+power pole
+substation
+arcing
+collapsed
+flattened
+toppled
+ripped off
+shattered
+wall cloud
+rotating
+rotation
+debris
+debris cloud
+power flash
+pea hail
+marble
+dime
+nickel
+quarter
+half dollar
+ping pong
+golf ball
+tennis ball
+baseball
+large hail
+damaging hail
+hail accumulation
+covered the ground
+flash flood
+flash flooding
+flooding
+river flooding
+creek overflow
+bankfull
+washout
+road washed out
+underpass
+culvert
+impassable
+water over road
+high water
+water in house
+water in business
+lightning strike
+struck by lightning
+measured gust
+estimated gust
+mph
+kts
